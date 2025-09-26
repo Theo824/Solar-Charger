@@ -12,7 +12,6 @@ n theory, the batteries could also charge an iPhone 12 Pro Max up to three times
 
 <img width="452" height="310" alt="KiCadSchematic" src="https://github.com/user-attachments/assets/27abac9c-3c68-4ecf-8c56-6b1fb8303408" />
 
-
 <img width="452" height="338" alt="solarChargerPCB_diagramPic" src="https://github.com/user-attachments/assets/0beba35f-348f-4680-a6ce-3043729a4e4e" />
 
 <img width="452" height="103" alt="KiCadPic" src="https://github.com/user-attachments/assets/3de56da4-e0ac-41f8-99d5-0ff58d4aa47c" />
