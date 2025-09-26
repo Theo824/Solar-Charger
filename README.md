@@ -8,6 +8,8 @@ The charger delivered 5 W to the iPhone and approximately 4 W to five AA NiMH ba
 Once fully charged, the auto-cutoff reduced the charging current by 58.33% to below 0.1C. I
 n theory, the batteries could also charge an iPhone 12 Pro Max up to three times without the solar panels.
 
+Note: The corresponding image descriptions are below the images.
+
 ![sketchIdea](https://github.com/user-attachments/assets/a798d90c-eaf5-4b76-b7a3-2d167c629f24)
 
 <img width="452" height="310" alt="KiCadSchematic" src="https://github.com/user-attachments/assets/27abac9c-3c68-4ecf-8c56-6b1fb8303408" />
