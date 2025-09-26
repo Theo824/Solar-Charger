@@ -32,11 +32,17 @@ The power adapter could not give more than 0.53 A in the breadboard testing.
 
 <img width="940" height="599" alt="image" src="https://github.com/user-attachments/assets/356b1c90-31ff-46f3-bd56-34be84826407" />
 
+The graph above is the data gathered from testing the breadboard prototype on charging NiMH battery.
+It indicates auto-cutoff at 7.25 V or 1.45 V each.
+
 ![NiMHBatteryCharging](https://github.com/user-attachments/assets/77f162cd-4f6b-4a62-8642-5ab6176955d2)
 
 0.48 A is the charging current of the NiMH battery.
 
 <img width="452" height="239" alt="NiMHChargeGraph" src="https://github.com/user-attachments/assets/34b08b46-f177-4980-bd69-2e78b5c5fa1b" />
+
+The graph above is the data gathered from testing the PCB prototype on charging NiMH battery. 
+It indicates auto-cutoff at 7.33 V or 1.466 V each.
 
 ![iPhone5WCharg](https://github.com/user-attachments/assets/f9acb1dd-e3b3-4317-9361-545f94991015)
 
