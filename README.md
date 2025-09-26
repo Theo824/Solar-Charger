@@ -25,6 +25,8 @@ I did not use surface-mount devices because my inexpensive soldering kit could n
 
 ![breadboardTest_iPhone](https://github.com/user-attachments/assets/f18b6622-74e6-42cb-978d-7142cfd17847)
 
+If you look closely, you can see the iPhone lightning symbol, which indicates charging.
+
 ![NiMHBatteryCharging](https://github.com/user-attachments/assets/77f162cd-4f6b-4a62-8642-5ab6176955d2)
 
 <img width="452" height="239" alt="NiMHChargeGraph" src="https://github.com/user-attachments/assets/34b08b46-f177-4980-bd69-2e78b5c5fa1b" />
