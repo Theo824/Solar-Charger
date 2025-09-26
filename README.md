@@ -27,4 +27,4 @@ n theory, the batteries could also charge an iPhone 12 Pro Max up to three times
 
 ![iPhone5WCharg](https://github.com/user-attachments/assets/f9acb1dd-e3b3-4317-9361-545f94991015)
 
-<img width="452" height="340" alt="iPhoneChargeGraph" src="https://github.com/user-attachments/assets/22929f8c-ad9e-4728-8d3e-e36e77c8757d" />
+<img width="452" height="269" alt="iPhoneChargeGraph1" src="https://github.com/user-attachments/assets/9ec02643-34d9-4bdd-be50-32ae7d992c6a" />
