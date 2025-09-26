@@ -46,4 +46,8 @@ It indicates auto-cutoff at 7.33 V or 1.466 V each.
 
 ![iPhone5WCharg](https://github.com/user-attachments/assets/f9acb1dd-e3b3-4317-9361-545f94991015)
 
+0.83 A is the first recorded charging current of iPhone. This fluctuated around 1 A (5 W) throughout the testing.
+
 <img width="452" height="269" alt="iPhoneChargeGraph1" src="https://github.com/user-attachments/assets/9ec02643-34d9-4bdd-be50-32ae7d992c6a" />
+
+The graph above illustrates the charging speed in relation to the battery percentage. It roughly takes 5 minutes to increase it by 1%.
