@@ -25,7 +25,8 @@ I did not use surface-mount devices because my inexpensive soldering kit could n
 
 ![breadboardTest_iPhone](https://github.com/user-attachments/assets/f18b6622-74e6-42cb-978d-7142cfd17847)
 
-If you look closely, you can see the iPhone lightning symbol, which indicates charging.
+If you look closely, you can see the iPhone lightning symbol, which indicates charging. 
+The power adapter could not give more than 0.53 A in the breadboard testing.
 
 ![NiMHBatteryCharging](https://github.com/user-attachments/assets/77f162cd-4f6b-4a62-8642-5ab6176955d2)
 
