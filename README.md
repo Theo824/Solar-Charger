@@ -30,6 +30,8 @@ I did not use surface-mount devices because my inexpensive soldering kit could n
 If you look closely, you can see the iPhone lightning symbol, which indicates charging. 
 The power adapter could not give more than 0.53 A in the breadboard testing.
 
+<img width="940" height="599" alt="image" src="https://github.com/user-attachments/assets/356b1c90-31ff-46f3-bd56-34be84826407" />
+
 ![NiMHBatteryCharging](https://github.com/user-attachments/assets/77f162cd-4f6b-4a62-8642-5ab6176955d2)
 
 0.48 A is the charging current of the NiMH battery.
