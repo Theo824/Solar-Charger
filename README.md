@@ -32,6 +32,8 @@ The power adapter could not give more than 0.53 A in the breadboard testing.
 
 ![NiMHBatteryCharging](https://github.com/user-attachments/assets/77f162cd-4f6b-4a62-8642-5ab6176955d2)
 
+0.48 A is the charging current of the NiMH battery.
+
 <img width="452" height="239" alt="NiMHChargeGraph" src="https://github.com/user-attachments/assets/34b08b46-f177-4980-bd69-2e78b5c5fa1b" />
 
 ![iPhone5WCharg](https://github.com/user-attachments/assets/f9acb1dd-e3b3-4317-9361-545f94991015)
