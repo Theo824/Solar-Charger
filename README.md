@@ -17,7 +17,8 @@ Note: The descriptions are below their corresponding images.
 
 ![sketchIdea](https://github.com/user-attachments/assets/a798d90c-eaf5-4b76-b7a3-2d167c629f24)
 
-<img width="452" height="310" alt="KiCadSchematic" src="https://github.com/user-attachments/assets/27abac9c-3c68-4ecf-8c56-6b1fb8303408" />
+<img width="521" height="358" alt="clearKiCadSchematic" src="https://github.com/user-attachments/assets/bdf07451-7340-4bab-90a7-5fab947a6f16" />
+
 
 <img width="452" height="338" alt="solarChargerPCB_diagramPic" src="https://github.com/user-attachments/assets/0beba35f-348f-4680-a6ce-3043729a4e4e" />
 
