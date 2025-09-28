@@ -1,6 +1,8 @@
 Designed and built a solar panel-powered constant current charger for NiMH or NiCD batteries, as well as an iPhone, 
 which can function as a power bank or be used in other devices.
 
+The voltages are adjustable to accommodate any battery, and the solar panels are detachable through screw connectors.
+
 Conceived the design concept centred around only two transistors. 
 Researched the iPhone charging handshake protocol, modified the circuit in NI Multisim to correct functionality, 
 and integrated it onto a 2-layer PCB using KiCad.
@@ -24,9 +26,10 @@ Note: The descriptions are below their corresponding images.
 
 <img width="452" height="338" alt="solarChargerPCB_diagramPic" src="https://github.com/user-attachments/assets/0beba35f-348f-4680-a6ce-3043729a4e4e" />
 
-The PCB size could be reduced significantly by using smaller switches and diodes, 
-switching to surface-mount devices, and removing test components such as screw connectors. 
-I did not use surface-mount devices because my inexpensive soldering kit could not solder them precisely.
+The PCB size could be reduced significantly by using smaller switches and diodes. 
+Switching to surface-mount devices and removing test components, such as screw connectors. 
+I did not use surface-mount devices because my inexpensive soldering kit couldn't solder them precisely.
+Using only one buck converter is not possible, because a 5 V output would not be able to charge 5x AA NiMH batteries (5 - 7 V).
 
 
 <img width="452" height="103" alt="KiCadPic" src="https://github.com/user-attachments/assets/3de56da4-e0ac-41f8-99d5-0ff58d4aa47c" />
