@@ -26,10 +26,12 @@ Note: The descriptions are below their corresponding images.
 
 <img width="452" height="338" alt="solarChargerPCB_diagramPic" src="https://github.com/user-attachments/assets/0beba35f-348f-4680-a6ce-3043729a4e4e" />
 
-The PCB can be made significantly smaller by using smaller components, 
-switching to surface-mount devices, and removing test components such as screw connectors.
-I did not use surface-mount devices because my inexpensive soldering kit couldn't solder them precisely.
-Using only one buck converter is not possible, because a 5 V output would not be able to charge 5x AA NiMH batteries (5 - 7 V).
+The PCB could be made significantly smaller by using smaller components, switching to surface-mount devices, 
+and removing test components such as screw connectors. 
+
+I did not use surface-mount devices because my inexpensive soldering kit cannot solder them precisely. 
+Using only one buck converter is not feasible, since a 5 V output cannot charge 5 × AA NiMH batteries (5–7 V), 
+lower battery voltages cannot charge an iPhone, and using more than 5 V with a single buck converter would damage the iPhone.
 
 
 <img width="452" height="103" alt="KiCadPic" src="https://github.com/user-attachments/assets/3de56da4-e0ac-41f8-99d5-0ff58d4aa47c" />
