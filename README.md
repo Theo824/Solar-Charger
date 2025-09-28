@@ -26,8 +26,8 @@ Note: The descriptions are below their corresponding images.
 
 <img width="452" height="338" alt="solarChargerPCB_diagramPic" src="https://github.com/user-attachments/assets/0beba35f-348f-4680-a6ce-3043729a4e4e" />
 
-The PCB size could be reduced significantly by using smaller switches and diodes. 
-Switching to surface-mount devices and removing test components, such as screw connectors. 
+The PCB can be made significantly smaller by using smaller components, 
+switching to surface-mount devices, and removing test components such as screw connectors.
 I did not use surface-mount devices because my inexpensive soldering kit couldn't solder them precisely.
 Using only one buck converter is not possible, because a 5 V output would not be able to charge 5x AA NiMH batteries (5 - 7 V).
 
