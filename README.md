@@ -46,7 +46,7 @@ The power adapter could not give more than 0.53 A.
 <img width="940" height="599" alt="image" src="https://github.com/user-attachments/assets/356b1c90-31ff-46f3-bd56-34be84826407" />
 
 The graph above is the data gathered from testing the breadboard prototype on charging NiMH battery.
-It indicates auto-cutoff at 7.25 V or 1.45 V each.
+It indicates auto-cutoff at 7.25 V or 1.45 V each battery cell.
 
 ![NiMHBatteryCharging](https://github.com/user-attachments/assets/77f162cd-4f6b-4a62-8642-5ab6176955d2)
 
