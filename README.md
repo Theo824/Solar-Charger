@@ -55,7 +55,7 @@ It indicates auto-cutoff at 7.25 V or 1.45 V each battery cell.
 <img width="3565" height="2255" alt="NiMH_PCB_CutOff" src="https://github.com/user-attachments/assets/a0eb493a-60fd-4c72-8d08-ff2f1df08bfc" />
 
 The graph above is the data gathered from testing the PCB prototype on charging NiMH battery. 
-It indicates auto-cutoff at 7.33 V or 1.466 V each.
+It indicates auto-cutoff at 7.33 V or 1.466 V each battery cell.
 
 ![iPhone5WCharg](https://github.com/user-attachments/assets/f9acb1dd-e3b3-4317-9361-545f94991015)
 
