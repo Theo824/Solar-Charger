@@ -1,4 +1,4 @@
-Designed and built a solar panel-powered constant current charger for NiMH or NiCD batteries, as well as an iPhone, 
+Designed and built a solar panel-powered constant-current charger for NiMH or NiCD batteries, or an iPhone, 
 which can function as a power bank or be used in other devices.
 
 The voltages are adjustable to accommodate any battery, and the solar panels are detachable through screw connectors.
