@@ -15,7 +15,7 @@ In theory, the batteries could also charge an iPhone 12 Pro Max up to three time
 The LED display shows the battery voltage. 
 To turn it to iPhone charging, turn the switches down; for NiMH charging, turn them up.
 
-For more step-by-step information on the process or log of making this project, please look at solarCharger24-25_Logbook.pdf.
+For more step-by-step information on the process or log of making this project, please look at solarCharger24-25_Logbook.pdf or solarCharger24-25_Logbook.docx: [Click here to view the Cloud File](https://1drv.ms/w/c/10176ce2d1328c94/IQDAm-Wb3D2zQ42p3uI7dwKKAQNEjcbpd-CYOFzZ3OIuXmA?e=BsMwEE)
 
 Note: The descriptions are below their corresponding images.
 
